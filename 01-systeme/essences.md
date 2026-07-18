@@ -1,4 +1,4 @@
-## Essence
+# Essence
 
 Les **essences** sont des artefacts magiques qui éveillent un potentiel surnaturel chez la personne qui les absorbe. Elles constituent la source principale des pouvoirs d'un aventurier.
 

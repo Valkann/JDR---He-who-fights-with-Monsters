@@ -1,4 +1,4 @@
-## Progression des compétences
+# Progression des compétences
 
 Chaque compétence possède sa propre progression indépendante.
 
