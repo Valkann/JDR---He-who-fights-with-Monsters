@@ -10,13 +10,13 @@ Une adaptation système/outil inspirée du roman LitRPG *He Who Fights With Mons
 - Documenter l'univers, les factions et le bestiaire pour le MJ.
 
 **Fonctionnalités clés**
-- Auras : mécaniques d'énergie/pouvoir activables et modulables.
-- Perception : compétence obligatoire améliorant les sens et interactions.
-- Déplacement : compétences liées à la mobilité et aux tactiques.
-- Livre de compétences : accès à savoirs et techniques hors-arbre principal.
-- Essences et Pierres d'éveil : progression et acquisition aléatoire de compétences liées aux essences.
+- Auras : mécaniques d'énergie/pouvoir activables et modulables.**WIP**
+- Perception : compétence obligatoire améliorant les sens et interactions.**WIP**
+- Déplacement : compétences liées à la mobilité et aux tactiques.**WIP**
+- Livre de compétences : accès à savoirs et techniques hors-arbre principal. **WIP**
+- Essences et Pierres d'éveil : progression et acquisition aléatoire de compétences liées aux essences.**WIP**
 
-**Arborescence importante**
+**Arborescence**
 - `00-meta/` : vision, glossaire, roadmap
 - `01-systeme/` : règles, compétences, races, essences
 - `02-lore/` : cosmologie, factions, aventures, bestiaire
