@@ -7,7 +7,7 @@ Chaque compétence progresse indépendamment selon deux axes :
 
 L'utilisation régulière d'une compétence augmente la maîtrise, révélant progressivement son potentiel. Les compétences liées à une même essence influencent l'évolution de l'attribut correspondant : une progression équilibrée des compétences permet à l'attribut de gagner en puissance.
 
-### Mécanique
+## Mécanique
 
 - Chaque résultat de `6-` permet de cocher une case de progression pour la compétence concernée.
 - Quand le niveau de maîtrise dépasse `9`, la compétence monte d'un rang (ex. Fer → Bronze) et son niveau de maîtrise est remis à 0.
